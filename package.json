@@ -1,0 +1,19 @@
+{
+  "name": "jest-mock-example",
+  "version": "1.0.0",
+  "description": "Examples Mocking Modules in Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "private": true,
+  "author": "Jia Hao Goh",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.0.4",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^22.0.4",
+    "regenerator-runtime": "^0.11.1"
+  }
+}
